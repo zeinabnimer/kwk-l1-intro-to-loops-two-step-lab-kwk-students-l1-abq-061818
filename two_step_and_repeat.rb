@@ -8,11 +8,16 @@ puts "Right foot back"
 sleep(0.5)
 puts "Stop"
 sleep(1)
-  
+
 end
 
 def a_few_more_steps
-  # Write a loop that outputs the first two sets of steps in the Two-Step
+puts "Right foot steps right and back"
+sleep(0.5)
+puts "left foot crosses over right"
+puts "right foot steps right"
+puts "turn"
+sleep(1)
 end
 
 def how_many_steps?
